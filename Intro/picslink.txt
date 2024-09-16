@@ -1,0 +1,19 @@
+as2.jpg 
+
+@misc{wiki:as2,
+   author = "Wikimedia Commons",
+   title = "File:Aerion SBJ Model.jpg --- Wikimedia Commons{,} the free media repository",
+   year = "2020",
+   url = "\url{https://commons.wikimedia.org/w/index.php?title=File:Aerion_SBJ_Model.jpg&oldid=411407616}",
+   note = "[Online; accessed 23-August-2020]"
+ }
+ 
+ falon9.jpg
+ 
+ @misc{wiki:fal9,
+   author = "Wikimedia Commons",
+   title = "File:Launch of Falcon 9 carrying CRS-6 Dragon (17170624642).jpg --- Wikimedia Commons{,} the free media repository",
+   year = "2020",
+   url = "\url{https://commons.wikimedia.org/w/index.php?title=File:Launch_of_Falcon_9_carrying_CRS-6_Dragon_(17170624642).jpg&oldid=435486733}",
+   note = "[Online; accessed 23-August-2020]"
+ }

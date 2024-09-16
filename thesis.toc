@@ -1,0 +1,14 @@
+\contentsline {chapter}{DEDICATION}{ii}{Doc-Start}%
+\contentsline {chapter}{ACKNOWLEDGEMENTS}{iii}{Doc-Start}%
+\contentsline {chapter}{LIST OF FIGURES}{v}{Doc-Start}%
+\contentsline {chapter}{LIST OF TABLES}{vi}{Doc-Start}%
+\contentsline {chapter}{LIST OF APPENDICES}{vii}{Doc-Start}%
+\contentsline {chapter}{ABSTRACT}{viii}{Doc-Start}%
+\mbox { }\newline \noindent {\bf CHAPTER}\newline 
+\hbox { }
+\hbox { }
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf I.\hspace {5pt}}{\bf Introduction}}{1}{chapter.1}%
+\hbox { }
+\contentsline {section}{\numberline {1.1}High Dimensional Non-linear Dynamical Systems}{1}{section.1.1}%
+\contentsline {chapter}{APPENDICES}{3}{figure.1.1}%
+\contentsline {chapter}{BIBLIOGRAPHY}{5}{appendix.A}%
